@@ -8,7 +8,7 @@
 	 `sudo make && sudo make install`
 
 > If something is not working:
-`sudo rm which vim and repeat step 3`
-
+`sudo rm which vim`
+> and repeat step 3
 > Check configuration in 
 `/vim/src/auto/config.h`
